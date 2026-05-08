@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 'prod-1',
+    name: 'Aurora Wireless Headphones',
+    category: 'Audio',
+    price: 149,
+    description: 'Immersive sound with long-lasting battery life.',
+    imageUrl: 'https://images.unsplash.com/photo-1511376777868-611b54f68947?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'prod-2',
+    name: 'Nexa Smartwatch',
+    category: 'Wearables',
+    price: 219,
+    description: 'Health monitoring and productivity tools in one sleek design.',
+    imageUrl: 'https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'prod-3',
+    name: 'Luma Lamp',
+    category: 'Home',
+    price: 85,
+    description: 'Smart ambient lighting with voice and app control.',
+    imageUrl: 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'prod-4',
+    name: 'Atlas Backpack',
+    category: 'Lifestyle',
+    price: 99,
+    description: 'Durable travel pack with dedicated laptop storage.',
+    imageUrl: 'https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'prod-5',
+    name: 'Pulse Fitness Tracker',
+    category: 'Wearables',
+    price: 79,
+    description: 'Track workouts, sleep, and heart rate effortlessly.',
+    imageUrl: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'prod-6',
+    name: 'Breeze Compact Fan',
+    category: 'Home',
+    price: 34,
+    description: 'Quiet cooling for desk or bedside use.',
+    imageUrl: 'https://images.unsplash.com/photo-1506260929254-88ec8f6ddaf8?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'prod-7',
+    name: 'Wave Studio Speakers',
+    category: 'Audio',
+    price: 189,
+    description: 'Rich, room-filling audio for your home studio.',
+    imageUrl: 'https://images.unsplash.com/photo-1495106245175-16c5d6d6dde8?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'prod-8',
+    name: 'Nova Desk Organizer',
+    category: 'Lifestyle',
+    price: 28,
+    description: 'Keep your workspace tidy with modern storage solutions.',
+    imageUrl: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=800&q=80',
+  },
+];
+
+export default products;
